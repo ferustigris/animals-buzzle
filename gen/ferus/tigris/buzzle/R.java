@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package ferus.tigris.buzzle;
+package ferus.tigris.buzzles;
 
 public final class R {
     public static final class anim {
